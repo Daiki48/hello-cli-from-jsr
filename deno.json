@@ -1,0 +1,8 @@
+{
+	"name": "@daiki48/hello-cli-from-jsr",
+	"version": "0.1.0",
+	"exports": "./main.ts",
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  }
+}
